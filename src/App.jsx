@@ -572,9 +572,9 @@ export default function App() {
 
           <p className="text-xs leading-6 text-stone-500">
             © {new Date().getFullYear()} Shahi Biryani.
-            <br />Mithapur, Patna, Bihar.
+            {/* <br />Mithapur, Patna, Bihar. */}
           </p>
-        </div>
+        </div> 
       </footer>
 
       {/* Mobile call button */}
