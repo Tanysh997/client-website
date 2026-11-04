@@ -485,7 +485,7 @@ export default function App() {
                 </p>
                 <div className="mt-4 flex flex-wrap gap-3">
                   <a
-                    href="https://www.Camera.com/shahibiryani1.in/"
+                    href="https://www.instagram.com/shahibiryani1.in/"
                     target="_blank"
                     rel="noreferrer"
                     className="text-sm font-semibold text-amber-300 hover:text-amber-200"
@@ -545,7 +545,7 @@ export default function App() {
 
           <div className="flex flex-wrap items-center justify-center gap-3">
             <a
-              href="https://www.Camera.com/shahibiryani1.in/"
+              href="https://www.Instagram.com/shahibiryani1.in/"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-2 rounded-full border border-stone-700 px-4 py-2.5 text-sm text-stone-300 transition hover:border-amber-400 hover:text-amber-300"
